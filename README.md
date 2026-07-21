@@ -1,2 +1,2 @@
 # ebenezer1689.github.io
-E-Ink Reader Friendly LFS eBook
+E-paper e-Reader friendly Linux From Scratch eBook
